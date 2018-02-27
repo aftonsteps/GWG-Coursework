@@ -1,0 +1,44 @@
+/* add your CSS here */
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #D3D3D3;
+	box-shadow: 5px 10px #D3D3D3;
+	width: 320px;
+}
+.movie-title {
+	text-decoration: underline;
+}
+
+.facts {
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.main-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.information {
+	border-style: solid;
+	border-color: #D3D3D3;
+	border-width: 1px;
+}
+
+div {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
