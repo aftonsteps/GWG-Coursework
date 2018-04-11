@@ -11,7 +11,7 @@ To students from the GWG Front-End Web Development course:
 
 What you need to make changes to the analysis:
 - Download and install <a href="https://www.r-project.org/">R</a>.
-- Download and install the open source edition of <a href="https://www.rstudio.com/products/rstudio/#Desktop"<R Studio</a>.
+- Download and install the open source edition of <a href="https://www.rstudio.com/products/rstudio/#Desktop">R Studio</a>.
 - Open the ui and server files in R Studio.
 - Check out <a href="https://shiny.rstudio.com/">Shiny</a> for tutorials and inspiration.
 - If you'd like to upload your app, sign up for a free tier account at <a href="https://www.shinyapps.io/">shinyapps.io</a>.
